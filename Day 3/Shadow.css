@@ -1,0 +1,39 @@
+body{
+    padding: 1%;
+}
+.Box1{
+    background-color: black;
+    width: 50%;
+    height: 10vh;
+    color: white;
+    box-shadow: 10px 10px green;
+    padding: 25px;
+    margin-top:5%;
+}
+.Box2{
+    background-color: black;
+    width: 50%;
+    height: 10vh;
+    color: white;
+    box-shadow: 7px 10px 5px 10px red;
+    padding: 25px;
+    margin-top:5%;
+}
+.Box3{
+    background-color: black;
+    width: 50%;
+    height: 10vh;
+    color: white;
+    box-shadow: 10px 20px blue, -5px -10px green;
+    padding: 25px;
+    margin-top:5%;
+}
+.Box4{
+    background-color: white;
+    width: 50%;
+    height: 10vh;
+    color: black;
+    box-shadow: 5px 5px 3px 5px black inset, 0px 0px 5px 5px black inset;
+    padding: 25px;
+    margin-top:5%;
+}

@@ -1,0 +1,21 @@
+.card{
+    background-color: #ffffff;
+}
+.card .card-body .colo{
+    background-color: #323f4b;
+    color: #ffffff;
+}
+p{
+    color: #7b8794;
+}
+h3{
+    color: #323f4b;
+}
+.card .card-body{
+    border: 1px solid white;
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-top: -305px;
+    padding: 25px;
+}

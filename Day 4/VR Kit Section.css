@@ -1,0 +1,19 @@
+.con{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+}
+.img_1{
+    height: auto;
+    width: 55%;
+}
+.img_2{
+    height: auto;
+    width: 30%;
+}
+.img_3{
+    height: auto;
+    width: 40%;
+}

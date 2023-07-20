@@ -1,0 +1,19 @@
+.Mains_1 {
+    background-color: #001c32;
+}
+.Mains_1 h5{
+    color:#cced00;
+}
+.Mains_1 .card{
+    border: none;
+    background-color:#001c32;
+    color: #9aa5b1;
+}
+.Profile_img{
+    border-radius: 100%;
+}
+.Mains_2{
+    background-color: #0d2436;
+    color: #9aa5b1;
+    text-align: center;
+}

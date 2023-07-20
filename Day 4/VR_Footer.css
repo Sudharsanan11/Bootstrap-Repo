@@ -1,0 +1,88 @@
+.mains{
+    background-color: #202b36;
+    height: 100vh;
+    width: 100%;
+    color: #959ead;
+}
+.left_column .card{
+    background-color: #202b36;
+    border: 1px solid black;
+    border: none;
+    color: #959ead;
+}
+.center_column .card{
+    background-color: #202b36;
+    border: 1px solid black;
+    border: none;
+    color: #959ead;
+}
+.right_column .card{
+    background-color: #202b36;
+    border: 1px solid black;
+    border: none;
+    color: #959ead;
+}
+.icon_1{
+    border: 1px solid #19232d;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    background-color: #19232d;
+    border-radius: 50%;
+    padding: 15px;
+    margin: 20px;
+    font-size: 20px;
+}
+.icon_2{
+    border: 1px solid #19232d;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    background-color: #19232d;
+    border-radius: 100%;
+    padding: 15px;
+    margin: 20px;
+    font-size: 20px;
+}
+.icon_3{
+    border: 1px solid #19232d;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    background-color: #19232d;
+    border-radius: 100%;
+    padding: 15px;
+    margin: 20px;
+    font-size: 20px;
+}
+.icon_4{
+    border: 1px solid #19232d;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    background-color: #19232d;
+    border-radius: 100%;
+    padding: 15px;
+    margin: 20px;
+    font-size: 20px;
+}
+.center_column .Card_Icon{
+    margin-left: 13px;
+}
+.mains .foot_hr{
+    width: 70%;
+    text-align: center;
+}
+@media only screen and (min-width:768px) {
+    .center_column{
+        font-size: 25px;
+    }
+    .right_column{
+        font-size: 25px;
+    }
+}
+@media screen and (max-width:767px) { 
+    .left_column{
+        text-align: center;
+    }
+}

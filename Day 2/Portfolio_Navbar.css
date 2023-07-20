@@ -1,0 +1,22 @@
+.mains{
+    background-color: #191a1d;
+    color: white;
+    height: 100vh;
+}
+.mains h1{
+    border: 2px solid white;
+    padding: 10px;
+}
+.Nav_Main{
+    background-color: #9aa5b1;
+}
+span{
+    color: blue;
+}
+.Align_Center{
+    width: 100%;
+    height: 80vh;
+}
+.My_Profile p{
+    color: #9aa5b1;
+}

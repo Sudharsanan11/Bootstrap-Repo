@@ -1,0 +1,31 @@
+.container{
+    margin: 0 auto;
+    font-family: 'Roboto';
+}
+.slide_2 p{
+    color: #9aa5b1;
+}
+.slide_3 .card{
+    border: none;
+    margin-left: 25%;
+}
+/* .slide_3 .card .img_3{
+    height: 150px;
+    width: 150px;
+} */
+.slide_3{
+    margin-top: 1%;
+}
+ .slide_4 .row{
+    margin-top: 1%;
+} 
+.slide_4 .v1{
+    margin-left: 18%;
+}
+.slide_4 .v2{
+    margin-left: 18%;
+}
+.slide_4 .v3{
+    margin-left: 18%;
+}
+

@@ -1,0 +1,22 @@
+.Mains{
+    background-color: #2b2c2d;
+    height: 100vh;
+}
+.Mains h4{
+    color: yellow;
+}
+.Mains .card{
+    background-color: #3e4c59;
+}
+.card a{
+    color: yellow;
+}
+.card .card-body p{
+    color: #9aa5b1;
+}
+.card h5{
+    color: white;
+}
+.Mains h2{
+    color: white;
+}

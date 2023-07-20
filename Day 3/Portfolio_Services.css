@@ -1,0 +1,13 @@
+.Mains{
+    background-color: #323f4b;
+    color: #9aa5b1;
+}
+.Mains .card{
+    background-color: #444e57;
+}
+.Mains h3{
+    color: white;
+}
+.Mains h5{
+    color: yellow;
+}

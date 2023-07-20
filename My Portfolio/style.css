@@ -1,0 +1,88 @@
+.Nav-bg-color{
+    background-image: linear-gradient(to right, white, grey);
+}
+.Mains .Toggle-Top{
+    background-image: linear-gradient(to right(white, grey));
+}
+.slide_1{
+    background-image: url('https://wallpaperaccess.com/full/3304538.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    opacity: 80%;
+    justify-content: center;
+}
+.slide_1 .card{
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+.Mains .portfolio-img{
+    width: 130px;
+    height: 60px;
+}
+.slide_1 .My-Name{
+    color: aqua;
+    animation-name: My-Name;
+    animation-duration: 4s;
+}
+@keyframes My-Name{
+    from{color: aqua;}
+    to{color: bisque;}
+}
+.slide_2{
+    background-image: linear-gradient(to right, white 35%, grey 65%);
+}
+.slide_2 .card{
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+}
+.slide_2 h3{
+    position: relative;
+    top: 150px;
+    font-size: 35px;
+    left: 55px;
+    width: 80%;
+    z-index: 1;
+    transform: skewX(10deg);
+}
+.slide_3{
+    background-image: radial-gradient(white 20%, grey);
+    margin-top: -17px;
+}
+.slide_3 .Css-Logo{
+    height: 400px;
+}
+.slide_3 .card{
+    border: none;
+    background-color: transparent;
+    color: rgb(72, 67, 67);
+    box-shadow: 0px 0px 20px 5px;
+}
+a.Click-Here:hover{
+    color: red;
+    background-color: black;
+}
+.slide_5{
+    background-image: linear-gradient(to right, white, grey 70%);
+}
+.slide_5 .Card-HS-School img{
+    height: 170px;
+    width: 400px;
+}
+.slide_5 .card{
+    border: none;
+    box-shadow: 0px 0px 30px 10px grey;
+}
+.slide_5 .card:active{
+    background-color: grey;
+}
+.slide_6 .Icons{
+    font-size: 30px;
+    margin: 20px;
+}
+.slide_6{
+    background-image: linear-gradient(to right, white, grey 70%);
+}
+

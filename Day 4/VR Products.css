@@ -1,0 +1,16 @@
+.row .cb_1{
+    background-color: transparent;
+    margin-top: -250px;
+    color: white;
+    font-size: 50px;
+}
+.row .btn{
+    border: 2px solid white;
+    color: white;
+}
+.d-flex .btn{
+    padding: 10px 50px;
+}
+.row .cb_1 h5{
+    font-size: 30px;
+}
